@@ -1,4 +1,8 @@
-### Hi there 👋
+## 👋🏻 Hola soy kenetcode 
+![Este es un Giff](https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif)
+#### Encuéntrame en redes :)
+* [Twitter @kenetcode](https://twitter.com/kenetcode)
+
 
 <!--
 **kenetcode/kenetcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
