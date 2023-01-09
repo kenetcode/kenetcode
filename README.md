@@ -1,26 +1,27 @@
-<h1 align="center">Hi 👋🏻, I'm Kenet Ortiz 💻</h1>
-<h2 align="center">A computer engineering student with a passion for technology, from El Salvador</h2>
-<h3 align="left">About me: </h3>
+<h1 align="center">Hey 👋🏻, soy Kenet Ortiz 💻</h1>
+<h2 align="center">Estudiante de ingeniería informática y un apasionado por la tecnología.</h2>
+<h3 align="left">Sobre mí: </h3>
 
 ```
-I am a second year computer engineering student at the University of El Salvador, I am passionate about learning,
-I always try to be in constant personal and professional growth as my career progresses.
-I am interested in obtaining my first work experiences, since for now I only have projects personal projects.
-I am focusing my learning on native and cross-platform mobile development and learning about
-How projects are developed in the professional world.
+Soy Estudiante de Ingeniería de Sistema Informático 💻 en la Universidad De El Salvador.
+Además aprendo sobre desarrollo móvil 📲 e inglés 🇺🇸 por mi cuenta. 
+👨🏻‍💻Todos mis proyectos son manejados con Git y alojados en GitHub. 
+He Desarrollado Desktop Apps para Windows con C# y .NET implementando POO. 
+💻 Manejo la Terminal y Línea de comandos, Git, Linux, Windows, macOS, Excel, Word. 
+Estoy familiarizado con los IDE Visual Studio y IntelliJ IDEA para el desarrollo 
+al igual que con el editor de código VS Code.
+Me apasiona aprender y estoy en constante crecimiento personal y profesional.
+Estoy abierto a oportunidades laborales y aprender constantemente para estar 
+al nivel profesional que se requiere.
 ```
 
-- 🌱 I’m currently learning **Java, Kotlin, Android, Git, Flutter, Dart**
+- 🌱 Actualmente estoy aprendiendo **Java, Kotlin, Android**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kenetcode](https://github.com/kenetcode)
+- 👨‍💻 Todos mis proyectos están disponibles [por acá](https://github.com/kenetcode)
+  
+- ⚡ Dato curioso: **Me encantan las matemáticas, aunque a veces son difíciles.**
 
-- 📝 I regularly write articles on [...](...)
-
-- 📫 How to reach me **on my twitter: @kenetcode**
-
-- ⚡ Fun fact **I love math, even though it's hard sometimes**
-
-<h3 align="left">Connect with me 👨🏻‍💻:</h3>
+<h3 align="left">Conectate con migo 👨🏻‍💻:</h3>
 <p align="left">
 <a href="https://twitter.com/kenetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kenetcode" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kenetcode/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kenetcode" height="30" width="40" /></a>
@@ -29,7 +30,7 @@ How projects are developed in the professional world.
 <a href="https://fb.com/kenetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kenetcode" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes de programación y herramientas:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <!-- <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> --> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenetcode&show_icons=true&locale=en&layout=compact" alt="kenetcode" /></p>
