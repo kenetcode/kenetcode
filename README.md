@@ -15,7 +15,7 @@ Estoy abierto a oportunidades laborales y aprender constantemente para estar
 al nivel profesional que se requiere.
 ```
 
-- 🌱 Actualmente estoy aprendiendo **Java, Golang, **
+- 🌱 Actualmente estoy aprendiendo **Java, Golang**
 
 - 👨‍💻 Todos mis proyectos están disponibles [por acá](https://github.com/kenetcode)
   
