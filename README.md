@@ -4,7 +4,7 @@
 
 ```
 Soy Estudiante de Ingeniería de Sistema Informático 💻 en la Universidad De El Salvador.
-Además aprendo sobre desarrollo móvil 📲 e inglés 🇺🇸 por mi cuenta. 
+Además aprendo sobre desarrollo web Backend 👨🏻‍💻 e inglés 🇺🇸 por mi cuenta. 
 👨🏻‍💻Todos mis proyectos son manejados con Git y alojados en GitHub. 
 He Desarrollado Desktop Apps para Windows con C# y .NET implementando POO. 
 💻 Manejo la Terminal y Línea de comandos, Git, Linux, Windows, macOS, Excel, Word. 
