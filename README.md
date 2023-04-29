@@ -27,7 +27,6 @@ al nivel profesional que se requiere.
 <a href="https://www.linkedin.com/in/kenetcode/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kenetcode" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18616233/kenetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18616233" height="30" width="40" /></a>
 <a href="https://instagram.com/kenetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kenetcode" height="30" width="40" /></a>
-<a href="https://fb.com/kenetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kenetcode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes de programación y herramientas:</h3>
