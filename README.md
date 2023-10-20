@@ -29,7 +29,7 @@ Estudiante de 3.er año de Ingeniería de Sistema Informático 💻 en la Univer
 
 <br>
 
-![Este es un Giff](https://github.com/kenetcode/kenetcode/blob/main/images/ProgramerImage.gif)
+![Este es un Giff](https://github.com/kenetcode/kenetcode/blob/main/images/NvL.gif)
 
 <!--
 **kenetcode/kenetcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
