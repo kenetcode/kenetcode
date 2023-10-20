@@ -1,25 +1,11 @@
-<h1 align="center">Hey 👋🏻, soy Kenet Ortiz 💻</h1>
-<h2 align="center">Estudiante de ingeniería informática y un apasionado por la tecnología.</h2>
+<h1 align="center">Hey Hola 👋🏻, soy Kenet Ortiz 💻</h1>
 <h3 align="left">Sobre mí: </h3>
 
 ```
-Soy Estudiante de Ingeniería de Sistema Informático 💻 en la Universidad De El Salvador.
-Además aprendo sobre desarrollo web Backend 👨🏻‍💻 e inglés 🇺🇸 por mi cuenta. 
-👨🏻‍💻Todos mis proyectos son manejados con Git y alojados en GitHub. 
-He Desarrollado Desktop Apps para Windows con C# y .NET implementando POO. 
-💻 Manejo la Terminal y Línea de comandos, Git, Linux, Windows, macOS, Excel, Word. 
-Estoy familiarizado con los IDE Visual Studio y IntelliJ IDEA para el desarrollo 
-al igual que con el editor de código VS Code.
-Me apasiona aprender y estoy en constante crecimiento personal y profesional.
-Estoy abierto a oportunidades laborales y aprender constantemente para estar 
-al nivel profesional que se requiere.
+Estudiante de 3.er año de Ingeniería de Sistema Informático 💻 en la Universidad De El Salvador.
 ```
 
-- 🌱 Actualmente estoy aprendiendo **Java, Golang**
-
-- 👨‍💻 Todos mis proyectos están disponibles [por acá](https://github.com/kenetcode)
-  
-- ⚡ Dato curioso: **Me encantan las matemáticas, aunque a veces son difíciles.**
+- 💻 Actualmente estoy desarrollando con **Java**
 
 <h3 align="left">Conectate con migo 👨🏻‍💻:</h3>
 <p align="left">
