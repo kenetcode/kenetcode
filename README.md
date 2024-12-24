@@ -2,7 +2,7 @@
 <h3 align="left">Sobre mí: </h3>
 
 ```
-Estudiante 👨🏻‍💻 de 3.er año de Ingeniería de Sistema Informático 💻 en la Universidad De El Salvador.
+Estudiante 👨🏻‍💻 de 4.to año de Ingeniería de Sistema Informático 💻 en la Universidad De El Salvador.
 ```
 
 - 💻 Actualmente estoy desarrollando con **Java**
@@ -10,7 +10,7 @@ Estudiante 👨🏻‍💻 de 3.er año de Ingeniería de Sistema Informático �
 <h3 align="left">Conectate con migo 👨🏻‍💻:</h3>
 <p align="left">
 <a href="https://twitter.com/kenetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kenetcode" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kenetcode/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kenetcode" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kenetcd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kenetcode" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18616233/kenetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18616233" height="30" width="40" /></a>
 <a href="https://instagram.com/kenetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kenetcode" height="30" width="40" /></a>
 </p>
