@@ -18,6 +18,10 @@ Estudiante 👨🏻‍💻 de 4.to año de Ingeniería de Sistema Informático �
 <h3 align="left">Lenguajes de programación y herramientas:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <!-- <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> --> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<h3 align="left">My committers.top el salvador rank:</h3>
+
+[![committers.top badge](https://user-badge.committers.top/el_salvador/kenetcode.svg)](https://user-badge.committers.top/el_salvador/kenetcode)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenetcode&show_icons=true&locale=en&layout=compact" alt="kenetcode" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kenetcode&show_icons=true&theme=tokyonight&locale=en" alt="kenetcode" /></p>
