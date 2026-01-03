@@ -2,7 +2,7 @@
 <h3 align="left">Sobre mí: </h3>
 
 ```
-Estudiante 👨🏻‍💻 de 4.to año de Ingeniería de Sistema Informático 💻 en la Universidad De El Salvador.
+Estudiante 👨🏻‍💻 de 5.to año de Ingeniería de Sistema Informático 💻 en la Universidad De El Salvador.
 ```
 
 - 💻 Actualmente estoy desarrollando con **Java**
